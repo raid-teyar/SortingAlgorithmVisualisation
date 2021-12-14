@@ -4,6 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 # User-specific files
+.gitattributes
+.gitignore
 *.rsuser
 *.suo
 *.user
@@ -361,3 +363,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+#Files i want to not include
+.gitattributes
+.gitignore
