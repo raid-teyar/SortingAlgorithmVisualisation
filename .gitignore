@@ -363,7 +363,3 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-
-#Files i want to not include
-.gitattributes
-.gitignore
